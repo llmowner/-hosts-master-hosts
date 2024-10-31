@@ -126108,5 +126108,6 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+0.0.0.0.0 uol.com.br
 0.0.0.0 censys.io
 0.0.0.0 censys.com
